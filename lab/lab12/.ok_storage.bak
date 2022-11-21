@@ -1,0 +1,6 @@
+'city_distance-correct', (0, 66)
+'city_closer-correct', (512, 66)
+'teacher_student_selectors-correct', (1024, 66)
+'student_attend_class-correct', (1536, 66)
+'teacher_hold_class-correct', (2048, 66)
+'What Would Scheme Display?-correct', (2560, 66)

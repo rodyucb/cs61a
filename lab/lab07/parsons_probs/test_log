@@ -1,0 +1,31 @@
+=====================================================================
+Assignment: Lab 7
+OK, version v1.18.1
+=====================================================================
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Running tests
+
+---------------------------------------------------------------------
+Doctests for reverse_link
+
+>>> s = Link(1, Link(2, Link(3, Link.empty)))
+>>> reverse_link(s)
+Link(3, Link(2, Link(1)))
+>>> s
+Link(1, Link(2, Link(3)))
+>>> k = Link(3, Link(5, Link(7, Link(9))))
+>>> reverse_link(k)
+Link(9, Link(7, Link(5, Link(3))))
+>>> k
+Link(3, Link(5, Link(7, Link(9))))
+-- OK! --
+---------------------------------------------------------------------
+Test summary
+    1 test cases passed! No cases failed.
+
+Backup... 0.0% completeBackup... 100% complete
+[31mBackup past deadline by 14 hours, 5 minutes, and 54 seconds[0m
+[32mBackup successful for user: berkeley1269595@berkeley.edu[0m
+[32mURL: https://okpy.org/cal/cs61a/sp22/lab07/backups/OE7qLr[0m
+

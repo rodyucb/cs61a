@@ -1,0 +1,11 @@
+def remove_odd_indices(lst, odd): #0given
+if !BLANK:  #1given #blankodd == False
+return !BLANK  #2given #blank[number for number in lst if lst.index(number) % 2 != 0]
+else: #1given
+if !BLANK:  #2given #blankodd == True
+return !BLANK  #3given #blank[number for number in lst if lst.index(number) % 2 == 0]
+return !BLANK
+print('DEBUG:', !BLANK)
+print('DEBUG:', !BLANK)
+# !BLANK
+# !BLANK

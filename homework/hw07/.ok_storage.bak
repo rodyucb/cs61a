@@ -1,0 +1,5 @@
+'kwlist-construct-correct', (0, 66)
+'kwlist-add-correct', (512, 66)
+'prune-expr-correct', (1024, 66)
+'curry-cook-correct', (1536, 66)
+'curry-consume-correct', (2048, 66)
