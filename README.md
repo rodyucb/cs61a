@@ -1,7 +1,7 @@
 # About
 Here are all the various projects, homeworks, and labs I worked on in CS61A of Spring 2022 using Python, Scheme and Visual Studio Code! The skills utilized in these projects are about controlling program complexity, such as functional programming, data abstraction, and object-oriented programming.
 
-There are some missing assignments that I was not able to upload to Github due to errors: Lab05, Lab07, Homework08, Scheme. Will be updated once ressolved!
+There are some missing assignments that I was not able to upload to Github due to errors: Lab05, Lab07, Homework08, Scheme. Will be updated once ressolved! README files for the projects are still a work in progress!
 
 # What is The Structure and Interpretation of Computer Programs (CS61A)?
 "The CS 61 series is an introduction to computer science, with particular emphasis on software and on machines from a programmer's point of view.
