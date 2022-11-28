@@ -63,9 +63,9 @@ The files are separated according to these two modes. ants.py knows nothing of g
 To start a text-based game, run
 ```
 python3 ants_text.py
-
 ```
 
 To start a graphical game, run
-
-`python3 gui.py`
+```
+python3 gui.py
+```
