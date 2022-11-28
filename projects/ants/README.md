@@ -1,7 +1,7 @@
 # Ants Vs. SomeBees
 ![splash (1)](https://user-images.githubusercontent.com/111802251/204198491-8de5083b-89ff-43f6-b09e-c284d16d64f2.png)
 # 1.) Introduction
-This project is a [tower defense](https://en.wikipedia.org/wiki/Tower_defense) game called Ants Vs. SomeBees. As the ant queen, you populate your colony with the bravest ants you can muster. Your ants must protect their queen from the evil bees that invade your territory. Irritate the bees enough by throwing leaves at them, and they will be vanquished. Fail to pester the airborne intruders adequately, and your queen will succumb to the bees' wrath. This game is inspired by PopCap Games' [Plants Vs. Zombies](https://www.ea.com/ea-studios/popcap/plants-vs-zombies).
+This project is a [tower defense](https://en.wikipedia.org/wiki/Tower_defense) game called Ants Vs. SomeBees. As the ant queen, you populate your colony with the bravest ants you can muster. Your ants must protect their queen from the evil bees that invade your territory. Irritate the bees enough by throwing leaves at them, and they will be vanquished. Fail to pester the airborne intruders adequately, and your queen will succumb to the bees' wrath. This game is inspired by [PopCap Games'](https://www.ea.com/ea-studios/popcap) [Plants Vs. Zombies](https://www.ea.com/ea-studios/popcap/plants-vs-zombies).
 ## Files in Project
 
 - `ants.py`: The game logic of Ants Vs. SomeBees
