@@ -1,6 +1,7 @@
 # CS 61A Autocorrected Typing Software
+![giphy](https://user-images.githubusercontent.com/111802251/204207747-1b1bd96f-b656-470c-92af-e86a86358100.gif)
 # 1.) Introduction
-In this project, you will compete with multiple players to find out who types the fastest with the most accuracy per word. Additionally. The game also has autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by [typeracer](https://play.typeracer.com/).
+In this project, you will compete with multiple players to find out who types the fastest with the most accuracy per word. Additionally, the game also has autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by [typeracer](https://play.typeracer.com/).
 ## Files in Project
 `cats.py`: The typing test logic.
 
@@ -25,3 +26,8 @@ In this project, you will compete with multiple players to find out who types th
 `images`: A directory of images.
 
 `ok, proj02.ok, tests`: Testing files.
+# 2.) Playing the Game
+Now you can play against other students in the course. Set `enable_multiplayer` to `True` near the bottom of `cats.py` and type swiftly!
+```
+python3 cats_gui.py
+```
