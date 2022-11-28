@@ -83,3 +83,6 @@ optional arguments:
   -w, --water    loads a full layout with water
   --food FOOD    number of food to start with when testing
 ```
+# 5.) Class Website Project Information
+
+[Click here.](https://inst.eecs.berkeley.edu/~cs61a/sp22/proj/ants)
