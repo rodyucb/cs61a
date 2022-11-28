@@ -35,6 +35,9 @@ The game can be run in two modes: as a text-based game or using a graphical user
 The files are separated according to these two modes. ants.py knows nothing of graphics or turn time limits.
 
 To start a text-based game, run
+
 `python3 ants_text.py`
+
 To start a graphical game, run
+
 `python3 gui.py`
