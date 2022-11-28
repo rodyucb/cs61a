@@ -1,4 +1,8 @@
 # About
+![logo](https://user-images.githubusercontent.com/111802251/204392749-28f09ba1-aee1-48f3-ad14-a303949787b5.png)
+
+Image Credit: [CS61A Spring 2022](https://inst.eecs.berkeley.edu/~cs61a/sp22/proj/ants/)
+
 Here are all the various projects, homeworks, and labs I worked on in CS61A of Spring 2022 using Python, Scheme and Visual Studio Code! The skills utilized in these projects are about controlling program complexity, such as functional programming, data abstraction, and object-oriented programming.
 
 # What is The Structure and Interpretation of Computer Programs (CS61A)?
