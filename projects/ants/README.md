@@ -29,3 +29,9 @@ A game of Ants Vs. SomeBees consists of a series of turns. In each turn, new bee
 - `Ant`: Represents ants. Each Ant subclass has special attributes or a special action that distinguish it from other Ant types. For example, a HarvesterAnt gets food for the colony and a ThrowerAnt attacks Bees. Each ant type also has a food_cost attribute that indicates how much it costs to deploy one unit of that type of ant.
 
 - `Bee`: Represents bees. Each turn, a bee either moves to the exit of its current Place if the Place is not blocked by an ant, or stings the ant occupying its same Place.
+# 4.) Playing the Game
+The game can be run in two modes: as a text-based game or using a graphical user interface (GUI). The game logic is the same in either case, but the GUI enforces a turn time limit that makes playing the game more exciting. The text-based interface is provided for debugging and development.
+
+The files are separated according to these two modes. ants.py knows nothing of graphics or turn time limits.
+
+To start a text-based game, run
