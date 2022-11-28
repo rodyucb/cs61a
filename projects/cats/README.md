@@ -1,5 +1,6 @@
 # CS 61A Autocorrected Typing Software
 ![GUI Capture](https://user-images.githubusercontent.com/111802251/204208385-dfedb597-dc8b-4654-aeef-b76bf8c302ca.gif)
+GIF Credit: [Shelly Tao](https://github.com/shelleytao/cats)
 # 1.) Introduction
 In this project, you will compete with multiple players to find out who types the fastest with the most accuracy per word. Additionally, the game also has autocorrect, which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by [typeracer](https://play.typeracer.com/).
 ## Features
