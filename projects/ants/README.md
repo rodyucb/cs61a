@@ -69,3 +69,17 @@ To start a graphical game, run
 ```
 python3 gui.py
 ```
+When you start the graphical version, a new browser window should appear. In the starter implementation, you have unlimited food and your ants can only throw leaves at bees in their current Place.
+
+The game has several options that you will use throughout the project, which you can view with python3 ants_text.py --help.
+```
+usage: ants_text.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
+
+Play Ants vs. SomeBees
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -d DIFFICULTY  sets difficulty of game (test/easy/normal/hard/extra-hard)
+  -w, --water    loads a full layout with water
+  --food FOOD    number of food to start with when testing
+```
