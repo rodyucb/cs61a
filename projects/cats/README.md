@@ -44,3 +44,5 @@ You can also play against other players. Set `enable_multiplayer` to `True` near
 ```
 python3 cats_gui.py
 ```
+# 3.) Class Website Project Information
+[Click Here](https://inst.eecs.berkeley.edu/~cs61a/sp22/proj/cats/)
